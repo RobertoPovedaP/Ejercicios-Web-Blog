@@ -1,1 +1,3 @@
 Este es un archivo nuevo para usar el git reset HEAD
+
+Aun no lo probamos XD
